@@ -7,9 +7,6 @@ from Manager import Manager
 from my_dataclasses import data_game_class
 from GameBoard import GameBoard
 from colors import *
-from Engine import Engine
-from EngineAI import EngineAI# pak ty ostatní odstranit
-from EngineConvo import EngineConvo
 from EngineLinear import EngineLinear
 from SaveHandler import SaveHandler
 
