@@ -22,7 +22,7 @@ nGAMES = NCOLs * NROWs
 
 #################### dictionary setting for gen AI interface
 SETTING = {"RUN": True, "SAVE": False,
-           "Engine": EngineAI, # zde si prohodím engine
+           "Engine": EngineLinear, # zde si prohodím engine
            "Generations": 7,
            "PaMutation": 0.1
            }

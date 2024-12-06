@@ -1,6 +1,5 @@
 import numpy as np
 import random
-from Engine import Engine
 
 class Player:
     def __init__(self, my_mark, engine, fromfile=None):
