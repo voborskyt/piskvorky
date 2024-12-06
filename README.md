@@ -1,4 +1,8 @@
 # Tic Tac Toe AI Engine Development Framework
+# Dependencies:
+- numpy
+- pygame
+- scipy
 
 ## Table of Contents
 1. Overview
